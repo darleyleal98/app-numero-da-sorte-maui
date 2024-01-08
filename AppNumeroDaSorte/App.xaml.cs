@@ -1,4 +1,4 @@
-﻿using NumeroDaSorte;
+﻿using AppNumeroDaSorte;
 
 namespace AppNumeroDaSorte
 {
